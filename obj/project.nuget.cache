@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hWuCmdGg3qXh6ckuLLmRJryApg+GWGfvYcl+d6irOoSkkrkQ+AYXB6TzSP6I8jsseVOHIF7XdtKqlxYVlQn+RQ==",
+  "success": true,
+  "projectFilePath": "c:\\Azure Data Studio Projects\\dbSpectrumPath\\dbSpectrumPath.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zoran\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Zoran\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
